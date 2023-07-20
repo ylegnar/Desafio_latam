@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Raleway:wght@500&family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Raleway:wght@500&family=Roboto:wght@500&display=swap');
+
+*{
+
+    color: #212529; 
+    font-family: 'Lilita One', cursive; 
+}
+
+.navbar{
+    background-color: rgb(218, 255, 251);
+    font-family: 'Lilita One', cursive;
+    font-size: 20px;
+}
+
+footer{
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(26, 95, 122);  
+}
+ 
+.card-img-right{
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(26, 95, 122);
+}
+
+.container-1{
+    background-image: url(../img/fondo-invierno-hojas-pinceles-color-pastel_220290-42.avif.avif.avif);
+
+}
+
+
+
